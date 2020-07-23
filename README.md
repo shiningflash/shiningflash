@@ -3,11 +3,11 @@
 ### 📢 Find me:
 <p>
   <a href="https://linkedin.com/in/amirulislamalmamun">
-    <img src="https://github.com/shiningflash/blob/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/shiningflash/shiningflash/blob/master/images/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="http://twitter.com/_shiningflash">
-    <img src="https://github.com/shiningflash/blob/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/shiningflash/shiningflash/blob/master/images/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="/youtube.svg">
