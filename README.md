@@ -18,6 +18,9 @@
 </p>
 -->
 
+| <p<img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true"></p> | [![trophy](https://github-profile-trophy.vercel.app/?username=shiningflash&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy) |
+| ----- | ---- |
+
 <table>
     <tr>
       <th><a href="https://shiningflash.github.io/" target="_blank"><img alt="me on web" src="https://github.com/shiningflash/shiningflash/blob/master/images/www.svg" title="me on web" width="30" height="30" /></a></th>
@@ -33,9 +36,3 @@
       <th><a href="https://twitter.com/_shiningflash" target="_blank"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://github.com/shiningflash/shiningflash/blob/master/images/twitter.svg"></a></th>
     </tr>
 </table>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiningflash&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
