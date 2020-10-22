@@ -18,7 +18,7 @@
 </p>
 -->
 
-| <p<img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true"></p> | [![trophy](https://github-profile-trophy.vercel.app/?username=shiningflash&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy) |
+| <p<img src="https://github-readme-stats.vercel.app/api?username=shiningflash&show_icons=true"></p> | [![trophy](https://github-profile-trophy.vercel.app/?username=shiningflash&theme=onedark)](https://github.com/shiningflash/github-profile-trophy) |
 | ----- | ---- |
 
 <table>
