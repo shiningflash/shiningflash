@@ -19,10 +19,10 @@
   </a>
 </p>
 <!--  -->
-| <p><img src="https://github-readme-stats.vercel.app/api?username=shiningflash&show_icons=true"></p> |
+<!-- | <p><img src="https://github-readme-stats.vercel.app/api?username=shiningflash&show_icons=true"></p> | -->
 <!-- | ----- | -->
 
--->
+<!-- --> -->
 
 <table>
      <tr>
