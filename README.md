@@ -1,5 +1,3 @@
-## Hey, I'm Amirul 👋
-
 <!--
 ![a](https://user-images.githubusercontent.com/35567854/89175621-eb2cea00-d5a9-11ea-8c1e-17cbd736b526.png)
 
@@ -21,6 +19,7 @@
 <!-- <img src ="https://gpvc.arturio.dev/shiningflash"> -->
 
 <table>
+    <h2> Hey, I'm Amirul 👋 </h2>
     <td>
       <h4>Connect with me:</h4>
       <a href="mailto:amirulislamalmamun@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
