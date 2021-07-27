@@ -30,12 +30,19 @@
     </td>
 </table>
 
-<!-- <table>
+<table>
+   <tr>
     <td>
-    <h4> All Django Projects </h4>
-    <a href="https://github.com/shiningflash/django-boilerplate" style="color:white; text-align:center; font-weight:bold; background:black; padding:5px 15px">django boilerplate</a>
-    <a href="https://github.com/shiningflash/elasticsearch-django" style="color:white; text-align:center; font-weight:bold; background:black; padding:5px 12px">elastic search using django</a>
-    <a href="https://github.com/shiningflash/SFAC-Backend" style="color:white; text-align:center; font-weight:bold; background:black; padding:5px 12px">project using django rest framework</a>
-    <a href="https://github.com/shiningflash/Django" style="color:white; text-align:center; font-weight:bold; background:black; padding:5px 12px">others</a>
-  </td>
-</table> -->
+      <h4> Django Projects </h4>
+      <a href="https://github.com/shiningflash/elasticsearch-django"><img src ="https://img.shields.io/badge/elastic%20search%20using%20django-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/SFAC-Backend"><img src="https://img.shields.io/badge/project%20using%20drf-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/></a>
+      </td>
+   </tr>
+   <tr>
+     <td>
+      <a href="https://github.com/shiningflash/django-boilerplate"><img src ="https://img.shields.io/badge/django%20boilerplate-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/FA_Online_Shop"><img src="https://img.shields.io/badge/FA%20Online%20Shop-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
+      <a href="https://github.com/shiningflash/Django"><img src="https://img.shields.io/badge/others-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red" /></a>
+    </td>
+   </tr>
+</table>
