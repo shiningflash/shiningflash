@@ -30,6 +30,36 @@
 <table>
     <tr>
     <td>
+      <h4> Competitive Programming </h4>
+      <a href="https://github.com/shiningflash/Competitive-Programming-Resources"><img src ="https://img.shields.io/badge/competitive%20programming%20resources-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      </td>
+   </tr>
+   <tr>
+     <td>
+     <a href="https://github.com/shiningflash/Online-Judge-Solutions"><img src="https://img.shields.io/badge/Online%20judge%20submissions%20(ACCEPTED)-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/></a>
+    </td>
+   </tr>
+   <tr>
+     <td>
+      <a href="https://github.com/shiningflash/Advance-Data-Structure"><img src ="https://img.shields.io/badge/data%20structures-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/Graph-Algorithm"><img src="https://img.shields.io/badge/graph%20algoriths-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
+    </td>
+   </tr>
+   <tr>
+     <td>
+      <a href="https://github.com/shiningflash/Dynamic-Programming"><img src="https://img.shields.io/badge/dynamic%20programming-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
+      <a href="https://github.com/shiningflash/Number-Theory"><img src="https://img.shields.io/badge/number%20theory-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
+    </td>
+   </tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr>
+    <td>
       <h4> Django Projects </h4>
       <a href="https://github.com/shiningflash/elasticsearch-django"><img src ="https://img.shields.io/badge/elastic%20search%20using%20django-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
       <a href="https://github.com/shiningflash/SFAC-Backend"><img src="https://img.shields.io/badge/project%20using%20drf-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/></a>
@@ -56,35 +86,6 @@
 
 </td>
 
-
-<td>
-
-<table>
-    <tr>
-    <td>
-      <h4> Competitive Programming </h4>
-      <a href="https://github.com/shiningflash/Competitive-Programming-Resources"><img src ="https://img.shields.io/badge/competitive%20programming%20resources-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      </td>
-   </tr>
-   <tr>
-     <td>
-     <a href="https://github.com/shiningflash/Online-Judge-Solutions"><img src="https://img.shields.io/badge/Online%20judge%20submissions%20(ACCEPTED)-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/></a>
-    </td>
-   </tr>
-   <tr>
-     <td>
-      <a href="https://github.com/shiningflash/Advance-Data-Structure"><img src ="https://img.shields.io/badge/data%20structures-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://github.com/shiningflash/Graph-Algorithm"><img src="https://img.shields.io/badge/graph%20algoriths-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
-    </td>
-   </tr>
-   <tr>
-     <td>
-      <a href="https://github.com/shiningflash/Dynamic-Programming"><img src="https://img.shields.io/badge/dynamic%20programming-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
-      <a href="https://github.com/shiningflash/Number-Theory"><img src="https://img.shields.io/badge/number%20theory-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
-    </td>
-   </tr>
 </table>
 
-</td>
 
-</table>
