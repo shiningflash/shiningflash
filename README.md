@@ -21,17 +21,7 @@
 <!-- <img src ="https://gpvc.arturio.dev/shiningflash"> -->
 
 <table>
-    <td>
-      <h4>Connect with me:</h4>
-      <a href="mailto:amirulislamalmamun@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://amirulislam.zeet.app/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://twitter.com/_shiningflash"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-      <a href="https://www.linkedin.com/in/amirulislamalmamun/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-    </td>
-</table>
-
-<table>
-   <tr>
+    <tr>
     <td>
       <h4> Django Projects </h4>
       <a href="https://github.com/shiningflash/elasticsearch-django"><img src ="https://img.shields.io/badge/elastic%20search%20using%20django-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
@@ -45,4 +35,15 @@
       <a href="https://github.com/shiningflash/Django"><img src="https://img.shields.io/badge/others-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red" /></a>
     </td>
    </tr>
+   
+   
+   <tr>
+    <td>
+      <h4>Connect with me:</h4>
+      <a href="mailto:amirulislamalmamun@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://amirulislam.zeet.app/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://twitter.com/_shiningflash"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+      <a href="https://www.linkedin.com/in/amirulislamalmamun/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+    </td>
+    </tr>
 </table>
