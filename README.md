@@ -73,7 +73,7 @@
    </tr>
    <tr>
      <td>
-      <a href="https://github.com/shiningflash/Advance-Data-Structure"><img src ="https://img.shields.io/badge/advance%20data%20structure-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/Advance-Data-Structure"><img src ="https://img.shields.io/badge/data%20structures-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
       <a href="https://github.com/shiningflash/Graph-Algorithm"><img src="https://img.shields.io/badge/graph%20algoriths-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
     </td>
    </tr>
@@ -88,5 +88,3 @@
 </td>
 
 </table>
-
-
