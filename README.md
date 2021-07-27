@@ -15,7 +15,7 @@
 <td>
   <h4>Feel free to connect with me:</h4>
   <a href="mailto:amirulislamalmamun@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=critical"></a>
-  <a href="https://amirulislam.zeet.app/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+  <a href="https://amirulislam.zeet.app/"><img src ="https://img.shields.io/badge/my%20website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
   <a href="https://twitter.com/_shiningflash"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue" /></a>
   <a href="https://www.linkedin.com/in/amirulislamalmamun/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=informational" /></a>
 </td>
