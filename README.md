@@ -78,6 +78,7 @@
     <td>
       <h4> Java Projects </h4>
       <a href="https://github.com/shiningflash/Sorting-Algorithm-Visualization"><img src ="https://img.shields.io/badge/sorting%20algorithm%20visualization-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/Software-Engineering"><img src ="https://img.shields.io/badge/design%20pattern-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
       </td>
    </tr>
    
