@@ -5,7 +5,7 @@
     Hey, I'm 
     <ul>
       <h3>Amirul Islam 👋</h3>
-      <li>I’m working as a <em>Software Engineer</em> at <a href="https://evaly.com.bd">Evaly.com.bd.</a></li>
+      <li>I’m working as a <em>Software Engineer</em>.</a></li>
       <li>I like to solve problems in my free times.</li>
       <li>I also like to learn cutting edge technologies.</li>
     </ul>
