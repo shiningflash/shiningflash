@@ -5,8 +5,8 @@
     Hey, I'm 
     <ul>
       <h3>Amirul Islam 👋</h3>
-      <li>I’m working as a <em>Software Engineer</em>.</a></li>
-      <li>I like to solve problems in my free times.</li>
+      <li>I’m working as a <em>Software Engineer and Backend Developer</em>.</a></li>
+      <li>I like to spend my free times in solving problems.</li>
       <li>I also like to learn cutting edge technologies.</li>
     </ul>
 
