@@ -47,7 +47,7 @@
    </tr>
    <tr>
      <td>
-      <a href="https://github.com/shiningflash/Dynamic-Programming"><img src="https://img.shields.io/badge/dynamic%20programming-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
+      <a href="https://github.com/shiningflash/Dynamic-Programming"><img src="https://img.shields.io/badge/dynamic%20program..-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
       <a href="https://github.com/shiningflash/Number-Theory"><img src="https://img.shields.io/badge/number%20theory-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
     </td>
    </tr>
@@ -67,7 +67,7 @@
    </tr>
    <tr>
      <td>
-      <a href="https://github.com/shiningflash/django-boilerplate"><img src ="https://img.shields.io/badge/django%20boilerplate-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
+      <a href="https://github.com/shiningflash/Hotel-Booking-System"><img src ="https://img.shields.io/badge/Hotel%20Booking%20System-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
       <a href="https://github.com/shiningflash/FA_Online_Shop"><img src="https://img.shields.io/badge/FA%20Online%20Shop-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" /></a>
       <a href="https://github.com/shiningflash/Django"><img src="https://img.shields.io/badge/others-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red" /></a>
     </td>
