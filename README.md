@@ -5,39 +5,30 @@ I am Amirul Islam Al Mamun 😃. I am from Dhaka, Bangladesh. I am a passionate 
 
 ## 👯 Summary
 
-● Passionate in programming
-
-● Excellent reputation for **problem solving ability**
-
-● Skilled enough in **Algorithms and Data Structure**
-
-● participated **15+ IUPC (Inter University Programming Contest) on behalf of BRAC University**
-
-● Solved **1200+ online programming problems**
-
-● Authored **12+ programming problems**
-
-● Problem setter of **6+ programming contests**
-
-● Experience of working in a largest e-commerce ecosystem and banking software
-
-● Team player and love to take new challenges
-
-● Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app).
+- Passionate in programming
+- Excellent reputation for **problem solving ability**
+- Skilled enough in **Algorithms and Data Structure**
+- participated **15+ IUPC (Inter University Programming Contest) on behalf of BRAC University**
+- Solved **1200+ online programming problems**
+- Authored **12+ programming problems**
+- Problem setter of **6+ programming contests**
+- Experience of working in a largest e-commerce ecosystem and banking software
+- Team player and love to take new challenges
+- Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app).
 
 ## ⚡ Technologies
 
 Talk to me about:
 
-● Backend development using **Django, Asyncio, Flask**, Sanic, FastAPI.
-● Front-end development using **React**.
-● Language expertise in **Python, Java, C/C++, JavaScript**.
-● Making for **Relational Database Management Systems (MySQL, PostgreSQL)**, MongoDB.
-● Solving Data structure and algorithm questions in **C++ and Python**.
-● Regular user of **Linux Operating System**.
-● Experience of using **Docker and Kubernetes**.
-● Desktop application development using **Java**.
-● Mobile application development using **Java, Kotlin and Flutter**.
+- Backend development using **Django, Asyncio, Flask**, Sanic, FastAPI.
+- Front-end development using **React**.
+- Language expertise in **Python, Java, C/C++, JavaScript**.
+- Making for **Relational Database Management Systems (MySQL, PostgreSQL)**, MongoDB.
+- Solving Data structure and algorithm questions in **C++ and Python**.
+- Regular user of **Linux Operating System**.
+- Experience of using **Docker and Kubernetes**.
+- Desktop application development using **Java**.
+- Mobile application development using **Java, Kotlin and Flutter**.
 
 <h3 align="left">Social Media and Online Judge Profile:</h3>
 
