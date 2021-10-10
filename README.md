@@ -23,12 +23,12 @@ Talk to me about:
 - Backend development using **Django, Asyncio, Flask**, Sanic, FastAPI.
 - Front-end development using **React**.
 - Language expertise in **Python, Java, C/C++, JavaScript**.
-- Making for **Relational Database Management Systems (MySQL, PostgreSQL)**, MongoDB.
-- Solving Data structure and algorithm questions in **C++ and Python**.
+- Making for **Relational Database Management Systems** (MySQL, PostgreSQL), MongoDB.
+- Solving Data structure and algorithm questions in **C/C++, Python**.
 - Regular user of **Linux Operating System**.
-- Experience of using **Docker and Kubernetes**.
+- Experience of using **Docker**, Kubernetes.
 - Desktop application development using **Java**.
-- Mobile application development using **Java, Kotlin and Flutter**.
+- Mobile application development using **Java, Kotlin, Flutter**.
 
 <h3 align="left">Social Media and Online Judge Profile:</h3>
 
