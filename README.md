@@ -6,14 +6,23 @@ I am Amirul Islam Al Mamun 😃. I am from Dhaka, Bangladesh. I am a passionate 
 ## 👯 Summary
 
 ● Passionate in programming
+
 ● Excellent reputation for **problem solving ability**
+
 ● Skilled enough in **Algorithms and Data Structure**
+
 ● participated **15+ IUPC (Inter University Programming Contest) on behalf of BRAC University**
+
 ● Solved **1200+ online programming problems**
+
 ● Authored **12+ programming problems**
+
 ● Problem setter of **6+ programming contests**
+
 ● Experience of working in a largest e-commerce ecosystem and banking software
+
 ● Team player and love to take new challenges
+
 ● Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app).
 
 ## ⚡ Technologies
