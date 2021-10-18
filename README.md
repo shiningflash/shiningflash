@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/)  [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
 
 I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
 
@@ -6,11 +6,11 @@ I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate proble
 
 - Passionate in programming
 - Excellent reputation for **problem solving ability**
-- Skilled enough in **Algorithms and Data Structure**
-- participated **15+ IUPC (Inter University Programming Contest) on behalf of BRAC University**
+- Experienced and skilled enough in **Algorithms and Data Structure**
+- Participated **15+ IUPC (Inter University Programming Contest) on behalf of BRAC University**
 - Solved **1200+ online programming problems**
 - Authored **12+ programming problems**
-- Problem setter of **6+ programming contests**
+- Problem setter at **6+ programming contests**
 - Experience of working in a largest e-commerce ecosystem and banking software
 - Team player and love to take new challenges
 - Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app).
