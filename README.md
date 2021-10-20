@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
 
-![short bio](me.png)
+<!-- ![short bio](me.png) -->
 
 I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
 
