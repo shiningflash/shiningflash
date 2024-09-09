@@ -21,7 +21,7 @@ I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate proble
 
 Talk to me about:
 
-- Backend development using **Django, Asyncio, Flask, Node js, Express js**, Sanic, FastAPI.
+- Backend development using **FastAPI, Django, Flask, Asyncio, Node js, Express js**, Sanic.
 - Front-end development using **React**.
 - Language expertise in **Python, C/C++, JavaScript, Java**.
 - Making for **Relational Database Management Systems** (MySQL, PostgreSQL), MongoDB.
