@@ -5,7 +5,7 @@
 I am a **Backend Engineer** currently based in **Lund, Sweden**, with over 4 years of hands-on experience in building scalable, high-performance backend systems. I’m passionate about solving complex problems and delivering efficient, clean code. 
 
 ## 🚀 Actively Seeking New Opportunities
-I am **actively looking to contribute** to new projects and opportunities that challenge my skills in Python, FastAPI, MongoDB, and backend development. Now based in **Lund, Sweden**, I am excited to explore roles that allow me to make an impact on dynamic, innovative teams. Let's collaborate and build something great together!
+I am **actively looking to contribute** to new projects and opportunities that challenge my skills in backend development. Now based in **Lund, Sweden**, I am excited to explore roles that allow me to make an impact on dynamic, innovative teams. Let's collaborate and build something great together!
 
 ## 🏆 Professional Experience
 - **WellDev LTD (Remote for Switzerland)**  
