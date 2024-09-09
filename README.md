@@ -1,41 +1,84 @@
-[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+# 👋 Hi, I’m Amirul Islam Al Mamun
 
-<!-- ![short bio](me.png) -->
+[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
 
-I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
+I am a **Backend Engineer** currently based in **Lund, Sweden**, with over 4 years of hands-on experience in building scalable, high-performance backend systems. I’m passionate about solving complex problems and delivering efficient, clean code. 
 
-## 👯 Summary
+## 🚀 Actively Seeking New Opportunities
+I am **actively looking to contribute** to new projects and opportunities that challenge my skills in Python, FastAPI, MongoDB, and backend development. Now based in **Lund, Sweden**, I am excited to explore roles that allow me to make an impact on dynamic, innovative teams. Let's collaborate and build something great together!
 
-- Passionate in programming
-- Excellent reputation for **problem solving ability**
-- Experienced and skilled enough in **Algorithms and Data Structure**
-- Participated **18+ IUPC (Inter University Programming Contest)** on behalf of BRAC University
-- Solved **1500+ online programming problems**
-- Authored **12+ programming problems**
-- Judge and Problem setter at **6+ programming contests**
-- Experience of working in a largest e-commerce ecosystem and banking software
-- Team player and love to take new challenges
-<!-- - Portfolio 🎯 site: [Portfolio](https://amirulislam.zeet.app). -->
+## 🏆 Professional Experience
+- **WellDev LTD (Remote for Switzerland)**  
+  *Senior Software Engineer* (Jan 2024 - Aug 2024)  
+  - Launched MVP for WellDev NLP, improved REST API performance by 35%, and increased test coverage to 90%.
+  - Led the Tessi project, optimizing backend infrastructure, achieving a 30% performance boost.
 
-## ⚡ Technologies
+- **Supertal PTE LTD (Remote for Singapore & Indonesia)**  
+  *Senior Software Engineer* (Jun 2022 - Dec 2023)  
+  - Led the design and development of two e-commerce MVPs in Indonesia, driving rapid market adoption.
+  - Enhanced the warehouse management system, increasing order fulfillment efficiency by 20%.
 
-Talk to me about:
+- **Evaly.com.bd (Bangladesh)**  
+  *Software Engineer* (Feb 2021 - Oct 2021)  
+  - Developed high-performance APIs that supported over a million users, reducing system load times by 40%.
 
-- Backend development using **FastAPI, Django, Flask, Asyncio, Node js, Express js**, Sanic.
-- Front-end development using **React**.
-- Language expertise in **Python, C/C++, JavaScript, Java**.
-- Making for **Relational Database Management Systems** (MySQL, PostgreSQL), MongoDB.
-- Solving Data structure and algorithm questions in **C/C++, Python**.
-- Regular user of **Linux Operating System**.
-- Experience of using **Docker**, Kubernetes.
-- Desktop application development using **Java**.
-- Mobile application development using **Java, Kotlin, Flutter**.
+- **Leads Corporation LTD (Bangladesh)**  
+  *Software Engineer Intern* (Sep 2020 - Dec 2020)  
+  - Created VerifID (eKYC) backend, streamlining digital onboarding for over 12 banks in Bangladesh.
 
-<h3 align="left">Social Media and Online Judge Profile:</h3>
+## 💡 Technologies & Tools
+- **Languages & Frameworks**: Python (FastAPI, Flask, Django), JavaScript (Node.js, Express.js), C/C++, Java.
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis.
+- **DevOps**: CI/CD (GitHub Actions, GitLab Runner), Docker, Kubernetes, AWS.
+- **Frontend**: React, HTML, CSS.
+- **Automation & Testing**: PyTest, Integration Testing, RabbitMQ, Celery.
 
-<a href="https://fb.com/shiningflaash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiningflaash" height="24" width="30" /></a> <a href="https://instagram.com/shiningflash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningflash_" height="24" width="30" /></a> <a href="https://www.youtube.com/c/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shiningflash" height="24" width="30" /></a> <a href="https://codeforces.com/profile/shining_flash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shining_flash" height="24" width="30" /></a> <a href="https://www.leetcode.com/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiningflash" height="24" width="30" /></a> <a href="https://www.hackerrank.com/shiningflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiningflash" height="24" width="30" /></a> <a href="https://www.codechef.com/users/shiningflash_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiningflash_" height="24" width="30" /></a> </p>
+## 🌟 Notable Achievements
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+- **Senior Software Engineer** at WellDev LTD (2024)  
+  - Successfully launched MVP for WellDev NLP, increasing REST API performance by 35% and improving test coverage from 60% to 90%.  
+  - Led the Tessi project, refining Python libraries for file and log management, optimizing microservices, and boosting overall system performance by 30%.  
+  - Mentored and trained colleagues on best practices and test-driven development.
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
- -->
+- **Senior Software Engineer** at Supertal PTE LTD (2022 - 2023)  
+  - Designed and developed two e-commerce MVPs for Indonesia, scaling the platforms to handle millions of users and high-traffic loads.  
+  - Enhanced the warehouse management system with a trip management module, increasing order fulfillment efficiency by 20%.  
+  - Promoted ahead of schedule due to demonstrated leadership and improving customer satisfaction ratings by 30%.
+
+- **Software Engineer** at Evaly.com.bd (2021)  
+  - Implemented backend logic that improved transaction accuracy, reducing payment discrepancies by 25%, increasing trust across digital platforms.  
+  - Developed a high-performance eHealth Order service, supporting over one million users, which optimized system load times by 40%.
+
+- **Software Engineer Intern** at Leads Corporation LTD (2020)  
+  - Developed the VerifID (eKYC) backend, streamlining digital onboarding for over 12 banks in Bangladesh, automating customer verification processes.
+
+- **Problem Setter and Judge** at Toph Online Judge (2019 - 2020)  
+  - Authored 12+ programming problems and judged 6+ programming contests, contributing to the online competitive programming community.
+
+- **Programming Mentor and Bootcamp Trainer** at Brac University (2018 - 2020)  
+  - Mentored students and trained them in algorithms, data structures, and problem-solving techniques in multiple bootcamps, enhancing their programming skills.
+
+- **Teaching Assistant** at Brac University (2019 - 2020)  
+  - Assisted students in mastering core computer science concepts, grading assignments, and leading lab sessions, helping them excel in their coursework.
+
+- **Global Problem-Solver** at NASA Space Apps Covid-19 Challenge (2020)  
+  - Recognized for contributing to innovative solutions during the global challenge, focusing on tackling Covid-19 related issues.
+
+- **Certificate of Trainer** at Brac University Programming Skill Bootcamp (2019)  
+  - Awarded for successfully training participants in advanced problem-solving and programming during university bootcamps.
+
+- **National Collegiate Programming Contest** at IUBAT (2018)  
+  - Participated and represented Brac University, competing at the national level in Bangladesh's top programming contest.
+
+- **Champion** at Intra-University Programming Contest, Brac University (2017)  
+  - Led the team to victory in the university’s internal programming contest, demonstrating problem-solving skills and teamwork.
+
+
+## 🌐 Connect with Me
+- [Email](mailto:amirulislamalmamun@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/amirulislamalmamun/)
+- [GitHub](https://github.com/shiningflash)
+- [Twitter](https://twitter.com/_shiningflash)
+
+## 🔧 Let's Build Something Together!
+I am actively seeking new opportunities and am open to collaborations. Feel free to reach out if you're looking for an experienced backend engineer or if you'd like to connect. I'm always excited to contribute to impactful projects!
